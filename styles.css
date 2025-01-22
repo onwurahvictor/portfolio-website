@@ -19,15 +19,24 @@ nav a {
 
 main {
     padding: 2rem;
+    /* display: inline; */
 }
+/* section{
+    display: inline;
+} */
+
 
 .project {
     margin: 2rem 0;
+   
 }
-
+.holder{
+    text-align: left;
+}
 .project img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
+    display: inline-block;
 }
 
 footer {
